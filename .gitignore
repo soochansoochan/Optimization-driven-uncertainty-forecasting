@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+gurobi.log
+*.log
+.env
+.venv/
+venv/
+results/additional_analysis/
